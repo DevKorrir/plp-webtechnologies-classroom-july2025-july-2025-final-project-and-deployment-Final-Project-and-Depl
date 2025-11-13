@@ -96,7 +96,7 @@ A modern, responsive eCommerce website built with HTML5, CSS3, and JavaScript fo
 
 ## 🚀 Live Demo
 
-[View Live Website](https://your-username.github.io/aldobiz)
+[View Live Website](https://plp-webtechnologies-classroom-july2-phi-three.vercel.app/)
 
 ## 📋 Project Overview
 
